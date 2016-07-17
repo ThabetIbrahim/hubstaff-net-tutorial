@@ -1,4 +1,4 @@
-# Hubstaff Integration With PHP-LIBRARY
+# Hubstaff Integration With ASP.NET-LIBRARY
 
 This tutorial will go over how to integrate the Hubstaff ASP.NET API into your own ASP.NET application. 
 The Hubstaff API allows you to easily link a User to their Hubstaff account and retrieve useful information such as custom team reports, 
